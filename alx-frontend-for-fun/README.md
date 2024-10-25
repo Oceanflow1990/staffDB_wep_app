@@ -1,2 +1,4 @@
-# alx-frontend-for-fun
-Yoooooo, frontend is fun, been wanting to dive deeper here I am swimming in the ocean of it's awesomeness. Wooohooo!!!
+# Markdown to HTML
+## Description
+### Markdown is awesome! All your README.md are made in Markdown, but do you know how Github are rendering them?
+### It’s time to code a Markdown to HTML!
